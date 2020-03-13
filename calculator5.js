@@ -1,4 +1,4 @@
-﻿function calc5()
+function calc5()
 {
 	var current_loan_amount = 0, intrest_sum = 0, loan_intrest = 0, month = 0, loan_amount = 0;
 
